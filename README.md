@@ -16,24 +16,19 @@ purposes and is not affiliated with shopee.
 
 ## User Story
 **US-001-Login**
-
-As a user, i want to login to my account so that i can access my shopee account
+- As a user, i want to login to my account so that i can access my shopee account
 
 **US-002-Search Product**
-
-As a user, i want to search product so that i can find product that i want to purchase
+- As a user, i want to search product so that i can find product that i want to purchase
 
 **US-003-Product Detail**
-
-As a user, i want to find a product that suits my needs
+- As a user, i want to find a product that suits my needs
 
 **US-004-Cart**
-
-As a user, i want to add products to my cart so that i can purchase them later
+- As a user, i want to add products to my cart so that i can purchase them later
 
 **US-005-Checkout**
-
-As a user, i want to checkout products in my cart so that i can complete my purchase 
+- As a user, i want to checkout products in my cart so that i can complete my purchase 
 
 ## Acceptance Criteria##
 **AC-001-Login**
