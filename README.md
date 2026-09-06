@@ -1,6 +1,6 @@
 # Shopee-Manual-Testing
 
-## Project Overvier
+## Project Overview
 This project demonstrates manual testing activities performed
 on a publicly available e-commerce application.
 
